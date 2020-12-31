@@ -70,51 +70,51 @@ body{
 }
 
 #b1{
-	background-image: url("../pictures/jokes.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/jokes.png?raw=true");background-repeat:no-repeat;
 }
 
 #b1:hover{
-	background-image: url("../pictures/jokes.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/jokes.png?raw=true");background-repeat:no-repeat;
 	background-size: 80%;
 	background-position: 10px,35px;   
 }
 		
 #b2{
-	background-image: url("../pictures/about.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/about.png?raw=true");background-repeat:no-repeat;
 }
 	
 #b2:hover{
-	background-image: url("../pictures/about.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/about.png?raw=true");background-repeat:no-repeat;
 	background-size: 80%;
 	background-position: 10px,35px; 
 }
 		
 #b3{
-	background-image: url("../pictures/contact-us.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/contact-us.png?raw=true");background-repeat:no-repeat;
 }
 		
 #b3:hover{
-	background-image: url("../pictures/contact-us.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/contact-us.png?raw=true");background-repeat:no-repeat;
 	background-size: 80%;
 	background-position: 10px,35px; 
 }
 		
 #b4{
-	background-image: url("../pictures/memes.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/memes.png?raw=true");background-repeat:no-repeat;
 }
 		
 #b4:hover{
-	background-image: url("../pictures/memes.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/memes.png?raw=true");background-repeat:no-repeat;
 	background-size: 80%;
 	background-position: 10px,35px; 
 }
 
 #Home{
-	background-image: url("../pictures/home.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/home.png?raw=true");background-repeat:no-repeat;
 }
 		
 #Home:hover{
-	background-image: url("../pictures/home.png");background-repeat:no-repeat;
+	background-image: url("https://github.com/anonymous-villager/anonymous-villager-3.github.io/blob/main/pictures/home.png?raw=true");background-repeat:no-repeat;
 	background-size: 80%;
 	background-position: 10px,35px; 
 }
